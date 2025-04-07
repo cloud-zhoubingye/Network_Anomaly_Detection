@@ -1,0 +1,702 @@
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.1): 0.6799
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.1): 0.6993
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.2): 0.7034
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.3): 0.7050
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.5): 0.7061
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.7): 0.7069
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.8): 0.7073
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.8): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.1556
+SCNFOD(α=0.9): 0.7077
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.1): 0.6593
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.1): 0.6920
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.2): 0.6994
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.3): 0.7025
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.5): 0.7049
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.7): 0.7061
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.8): 0.7068
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.8): 0.7073
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.1116
+SCNFOD(α=0.9): 0.7077
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.1): 0.6438
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.1): 0.6879
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.2): 0.6970
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.3): 0.7012
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.5): 0.7041
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.7): 0.7057
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.8): 0.7065
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.8): 0.7071
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.1041
+SCNFOD(α=0.9): 0.7076
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.1): 0.6353
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.1): 0.6861
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.2): 0.6960
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.3): 0.7005
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.5): 0.7038
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.7): 0.7055
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.8): 0.7064
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.8): 0.7070
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.1008
+SCNFOD(α=0.9): 0.7076
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.1): 0.6248
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.1): 0.6839
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.2): 0.6949
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.3): 0.6998
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.5): 0.7034
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.7): 0.7053
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.8): 0.7062
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.8): 0.7070
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0941
+SCNFOD(α=0.9): 0.7076
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.1): 0.6157
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.1): 0.6817
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.2): 0.6937
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.3): 0.6990
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.5): 0.7030
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.7): 0.7051
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.8): 0.7061
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.8): 0.7069
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0940
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.1): 0.6062
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.1): 0.6796
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.2): 0.6928
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.3): 0.6983
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.5): 0.7027
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.7): 0.7049
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.8): 0.7060
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.8): 0.7068
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0938
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.1): 0.6002
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.1): 0.6779
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.2): 0.6920
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.3): 0.6977
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.5): 0.7024
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.7): 0.7048
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.8): 0.7059
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.8): 0.7067
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0917
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.1): 0.5955
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.1): 0.6760
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.2): 0.6913
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.3): 0.6972
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.5): 0.7022
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.7): 0.7046
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.8): 0.7058
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.8): 0.7067
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0883
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.1): 0.5890
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.1): 0.6734
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.2): 0.6905
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.3): 0.6968
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.5): 0.7019
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.7): 0.7045
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.8): 0.7057
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.8): 0.7066
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0881
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.1): 0.5842
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.1): 0.6708
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.2): 0.6896
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.3): 0.6964
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.5): 0.7017
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.7): 0.7043
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.8): 0.7056
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.8): 0.7066
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0895
+SCNFOD(α=0.9): 0.7075
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.1): 0.5799
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.1): 0.6685
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.2): 0.6888
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.3): 0.6960
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.5): 0.7014
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.7): 0.7042
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.8): 0.7055
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.8): 0.7066
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0936
+SCNFOD(α=0.9): 0.7074
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.05
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.1): 0.5768
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.15
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.1): 0.6663
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.25
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.2): 0.6881
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.35
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.3): 0.6956
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.5
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.5): 0.7012
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.65
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.7): 0.7041
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.75
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.8): 0.7054
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.85
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.8): 0.7065
+
+===== Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.95
+SSCOMPOD: 0.7078
+DFNO: 0.0956
+SCNFOD(α=0.9): 0.7074

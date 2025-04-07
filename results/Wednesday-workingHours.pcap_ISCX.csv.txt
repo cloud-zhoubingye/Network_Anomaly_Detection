@@ -1,0 +1,702 @@
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.1): 0.5165
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.1): 0.5248
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.2): 0.5267
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.3): 0.5275
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.5): 0.5281
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.7): 0.5284
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.8): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.8): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4277
+SCNFOD(α=0.9): 0.5288
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.1): 0.5141
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.1): 0.5249
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.2): 0.5270
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.3): 0.5278
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.5): 0.5280
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.7): 0.5281
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.8): 0.5282
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.8): 0.5284
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4487
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.1): 0.5146
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.1): 0.5257
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.2): 0.5273
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.3): 0.5279
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.5): 0.5281
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.7): 0.5281
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.8): 0.5282
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.8): 0.5284
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4574
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.1): 0.5167
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.1): 0.5282
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.2): 0.5304
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.3): 0.5307
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.5): 0.5296
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.7): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.8): 0.5283
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4620
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.1): 0.5164
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.1): 0.5292
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.2): 0.5313
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.3): 0.5316
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.5): 0.5308
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.7): 0.5291
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.8): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.8): 0.5284
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4653
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.1): 0.5173
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.1): 0.5298
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.2): 0.5317
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.3): 0.5320
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.5): 0.5313
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.7): 0.5295
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.8): 0.5288
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4714
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.1): 0.5187
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.1): 0.5305
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.2): 0.5320
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.3): 0.5323
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.5): 0.5316
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.7): 0.5297
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.8): 0.5289
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4843
+SCNFOD(α=0.9): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.1): 0.5218
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.1): 0.5345
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.2): 0.5336
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.3): 0.5331
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.5): 0.5320
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.7): 0.5299
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.8): 0.5290
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4860
+SCNFOD(α=0.9): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.1): 0.5211
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.1): 0.5354
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.2): 0.5357
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.3): 0.5341
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.5): 0.5324
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.7): 0.5301
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.8): 0.5291
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.8): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4901
+SCNFOD(α=0.9): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.1): 0.5198
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.1): 0.5353
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.2): 0.5359
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.3): 0.5346
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.5): 0.5325
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.7): 0.5302
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.8): 0.5291
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.8): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4971
+SCNFOD(α=0.9): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.1): 0.5200
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.1): 0.5345
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.2): 0.5356
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.3): 0.5349
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.5): 0.5325
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.7): 0.5301
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.8): 0.5291
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.4999
+SCNFOD(α=0.9): 0.5287
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.1): 0.5246
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.1): 0.5348
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.2): 0.5356
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.3): 0.5350
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.5): 0.5325
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.7): 0.5301
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.8): 0.5291
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.5023
+SCNFOD(α=0.9): 0.5286
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.05
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.1): 0.5244
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.15
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.1): 0.5342
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.25
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.2): 0.5353
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.35
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.3): 0.5350
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.5
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.5): 0.5324
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.65
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.7): 0.5300
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.75
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.8): 0.5290
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.85
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.8): 0.5285
+
+===== Wednesday-workingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.95
+SSCOMPOD: 0.5289
+DFNO: 0.5033
+SCNFOD(α=0.9): 0.5287
