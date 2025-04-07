@@ -158,7 +158,9 @@ def find_best_results(file_path):
 if __name__ == "__main__":
     import os
     file_path_list = [os.path.join("results", f) for f in os.listdir("results") if f.endswith(".txt")]
-    # for file_path in file_path_list:
-    #     analyze_results(file_path)
     for file_path in file_path_list:
-        find_best_results(file_path)
+        if 'UNSW' in file_path:
+            analyze_results(file_path)
+    for file_path in file_path_list:
+        # if 'UNSW' in file_path:
+            find_best_results(file_path)

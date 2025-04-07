@@ -187,6 +187,31 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>AUC of DFNO</th>
         <th>AUC of SSC</th>
     </tr>
+    <tr>
+        <th rowspan="10"><span style="color:red">UNSW-NB15_1.csv</span></th>
+        <th>k=2, Alpha=0.25</th>
+        <th>0.6696</th>
+        <th>0.5552</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=11, Alpha=0.15</th>
+        <th>0.6955</th>
+        <th>0.6613</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=20, Alpha=0.15</th>
+        <th>0.7299</th>
+        <th>0.6977</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=29, Alpha=0.15</th>
+        <th></th>
+        <th>0.7042</th>
+        <th>0.6589</th>
+    </tr>
 </table>
 
 ## Unused Datasets
