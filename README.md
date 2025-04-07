@@ -42,7 +42,7 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>0.7078</th>
     </tr>
     <tr>
-        <th rowspan="3"><span style="color:red">Friday-WorkingHours-Morning.pcap_ISCX.csv</span></th>
+        <th rowspan="3"><span style="color:red; font-weight:bold;">Friday-WorkingHours-Morning.pcap_ISCX.csv</span></th>
         <th>k=2, Alpha=0.05</th>
         <th>0.3680</th>
         <th>0.2954</th>
@@ -82,7 +82,7 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>0.0655</th>
     </tr>
     <tr>
-        <th rowspan="5"><span style="color:red">Tuesday-WorkingHours.pcap_ISCX.csv</span></th>
+        <th rowspan="5"><span style="color:red; font-weight:bold;">Tuesday-WorkingHours.pcap_ISCX.csv</span></th>
         <th>k=22, Alpha=0.05</th>
         <th>0.2281</th>
         <th>0.2192</th>
@@ -113,7 +113,7 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>0.2188</th>
     </tr>
     <tr>
-        <th rowspan="10"><span style="color:red">Wednesday-workingHours.pcap_ISCX.csv</span></th>
+        <th rowspan="10"><span style="color:red; font-weight:bold;">Wednesday-workingHours.pcap_ISCX.csv</span></th>
         <th>k=17, Alpha=0.35</th>
         <th>0.5307</th>
         <th>0.4620</th>
@@ -188,7 +188,7 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>AUC of SSC</th>
     </tr>
     <tr>
-        <th rowspan="10"><span style="color:red">UNSW-NB15_1.csv</span></th>
+        <th rowspan="10"><span style="color:red; font-weight:bold;">UNSW-NB15_1.csv</span></th>
         <th>k=2, Alpha=0.25</th>
         <th>0.6696</th>
         <th>0.5552</th>
