@@ -189,17 +189,17 @@ Results are as follows. Datasets displayed in red font gain better performance t
     </tr>
 </table>
 
-
-## KDD Cup 1999
+## Unused Datasets
+### KDD Cup 1999
 - [Cost-based Modeling and Evaluation for Data Mining With Application to Fraud and Intrusion Detection: Results from the JAM Project by Salvatore J. Stolfo, Wei Fan, Wenke Lee, Andreas Prodromidis, and Philip K. Chan](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 - Due to unknown reasons, all results shows `nan`.
 
-## CIC IoT Dataset 2023
+### CIC IoT Dataset 2023
 - [Neto E C P, Dadkhah S, Ferreira R, et al. CICIoT2023: A real-time dataset and benchmark for large-scale attacks in IoT environment[J]. Sensors, 2023, 23(13): 5941.](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
 - This dataset contains almost only attack records, and there is nearly no normal records, so it is not suitable.
 
 
-## Mapple
+### Mapple
 - [Q. Li, B. Wang, X. Wen, Y. Chen, Cybersecurity situational awareness framework based on ResNet modeling](https://maple.nefu.edu.cn/)
 - The authors of Mapple did not label the dataset, so it can not be used.
 

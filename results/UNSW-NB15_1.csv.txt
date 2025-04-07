@@ -64,3 +64,9 @@ Parameters: k=11, Alpha=0.25
 SSCOMPOD: 0.6589
 DFNO: 0.6613
 SCNFOD(α=0.2): 0.6948
+
+===== UNSW-NB15_1.csv =====
+Parameters: k=11, Alpha=0.35
+SSCOMPOD: 0.6589
+DFNO: 0.6613
+SCNFOD(α=0.3): 0.6882
