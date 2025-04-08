@@ -1,0 +1,6 @@
+dataset/
+*.pyc
+__pycache__/
+results/
+*.csv.txt
+*.log
