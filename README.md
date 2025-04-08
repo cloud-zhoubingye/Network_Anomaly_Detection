@@ -188,7 +188,7 @@ Results are as follows. Datasets displayed in red font gain better performance t
         <th>AUC of SSC</th>
     </tr>
     <tr>
-        <th rowspan="10"><span style="color:red; font-weight:bold;">UNSW-NB15_1.csv</span></th>
+        <th rowspan="8"><span style="color:red; font-weight:bold;">UNSW-NB15_1.csv</span></th>
         <th>k=2, Alpha=0.25</th>
         <th>0.6696</th>
         <th>0.5552</th>
@@ -208,9 +208,65 @@ Results are as follows. Datasets displayed in red font gain better performance t
     </tr>
     <tr>
         <th>k=29, Alpha=0.15</th>
-        <th></th>
+        <th>0.7433</th>
         <th>0.7042</th>
         <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=38, Alpha=0.15</th>
+        <th>0.7558</th>
+        <th>0.7332</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=47, Alpha=0.15</th>
+        <th>0.7719</th>
+        <th>0.7497</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=56, Alpha=0.15</th>
+        <th>0.7835</th>
+        <th>0.7538</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th>k=65, Alpha=0.15</th>
+        <th>0.7900</th>
+        <th>0.7561</th>
+        <th>0.6589</th>
+    </tr>
+    <tr>
+        <th rowspan="8"><span style="color:red; font-weight:bold;">UNSW-NB15_2.csv</span></th>
+        <th>k=38, Alpha=0.35</th>
+        <th>0.4515</th>
+        <th>0.4262</th>
+        <th>0.4511</th>
+    </tr>
+    <tr>
+        <th>k=47, Alpha=0.25</th>
+        <th>0.4528</th>
+        <th>0.4399</th>
+        <th>0.4511</th>
+    </tr>
+    <tr>
+        <th>k=56, Alpha=0.15</th>
+        <th>0.4547</th>
+        <th>0.4496</th>
+        <th>0.4511</th>
+    </tr>
+    <tr>
+        <th>k=65, Alpha=0.15</th>
+        <th>0.4564</th>
+        <th>0.4530</th>
+        <th>0.4511</th>
+    </tr>
+    <tr>
+        <th>UNSW-NB15_2.csv</span></th>
+        <th>k=38, Alpha=0.35</th>
+        <th>0.4515</th>
+        <th>0.4262</th>
+        <th>0.4511</th>
     </tr>
 </table>
 
