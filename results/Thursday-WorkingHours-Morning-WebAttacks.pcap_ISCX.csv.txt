@@ -1,0 +1,702 @@
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.1): 0.0693
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.1): 0.0648
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.2): 0.0644
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.3): 0.0643
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.5): 0.0644
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.7): 0.0647
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.8): 0.0649
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.8): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2181
+SCNFOD(α=0.9): 0.0655
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.1): 0.1377
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.1): 0.0948
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.2): 0.0742
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.3): 0.0668
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.5): 0.0647
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.7): 0.0644
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.8): 0.0646
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.8): 0.0648
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2334
+SCNFOD(α=0.9): 0.0654
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.1): 0.1483
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.1): 0.1200
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.2): 0.0890
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.3): 0.0704
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.5): 0.0653
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.7): 0.0638
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.8): 0.0640
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.8): 0.0647
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2281
+SCNFOD(α=0.9): 0.0653
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.1): 0.1500
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.1): 0.1229
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.2): 0.0922
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.3): 0.0720
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.5): 0.0655
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.7): 0.0639
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.8): 0.0636
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.8): 0.0644
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2255
+SCNFOD(α=0.9): 0.0653
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.1): 0.1503
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.1): 0.1239
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.2): 0.0934
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.3): 0.0726
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.5): 0.0656
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.7): 0.0638
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.8): 0.0636
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.8): 0.0643
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.9): 0.0652
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.1): 0.1503
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.1): 0.1241
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.2): 0.0940
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.3): 0.0729
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.5): 0.0656
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.7): 0.0637
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.8): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.8): 0.0642
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2219
+SCNFOD(α=0.9): 0.0652
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.1): 0.1500
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.1): 0.1240
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.2): 0.0943
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.3): 0.0731
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.5): 0.0655
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.7): 0.0638
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.8): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.8): 0.0641
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2225
+SCNFOD(α=0.9): 0.0652
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.1): 0.1498
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.1): 0.1238
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.2): 0.0943
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.3): 0.0734
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.5): 0.0655
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.7): 0.0637
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.8): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.8): 0.0640
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2206
+SCNFOD(α=0.9): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.1): 0.1494
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.1): 0.1236
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.2): 0.0943
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.3): 0.0735
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.5): 0.0654
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.7): 0.0636
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.8): 0.0634
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.8): 0.0640
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2240
+SCNFOD(α=0.9): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.1): 0.1489
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.1): 0.1234
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.2): 0.0942
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.3): 0.0734
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.5): 0.0654
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.7): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.8): 0.0634
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.8): 0.0639
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2228
+SCNFOD(α=0.9): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.1): 0.1485
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.1): 0.1233
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.2): 0.0942
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.3): 0.0735
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.5): 0.0654
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.7): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.8): 0.0634
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.8): 0.0639
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2217
+SCNFOD(α=0.9): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.1): 0.1473
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.1): 0.1224
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.2): 0.0929
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.3): 0.0729
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.5): 0.0652
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.7): 0.0635
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.8): 0.0634
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.8): 0.0639
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2207
+SCNFOD(α=0.9): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.05
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.1): 0.1464
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.15
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.1): 0.1211
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.25
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.2): 0.0909
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.35
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.3): 0.0725
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.5
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.5): 0.0651
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.65
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.7): 0.0637
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.75
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.8): 0.0637
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.85
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.8): 0.0639
+
+===== Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.95
+SSCOMPOD: 0.0655
+DFNO: 0.2223
+SCNFOD(α=0.9): 0.0651

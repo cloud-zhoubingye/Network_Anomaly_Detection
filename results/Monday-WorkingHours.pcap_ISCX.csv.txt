@@ -1,0 +1,702 @@
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=2, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=7, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=12, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=17, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=22, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=27, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=32, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=37, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=42, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=47, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=52, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=57, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.05
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.15
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.1): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.25
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.2): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.35
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.3): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.5
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.5): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.65
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.7): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.75
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.85
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.8): nan
+
+===== Monday-WorkingHours.pcap_ISCX.csv =====
+Parameters: k=62, Alpha=0.95
+SSCOMPOD: nan
+DFNO: nan
+SCNFOD(α=0.9): nan

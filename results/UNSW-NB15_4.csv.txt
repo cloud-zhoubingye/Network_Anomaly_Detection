@@ -1,0 +1,384 @@
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.1): 0.3125
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.1): 0.3683
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.2): 0.3863
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.3): 0.3947
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.5): 0.4012
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.7): 0.4048
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.8): 0.4064
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=2, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.2820
+SCNFOD(α=0.9): 0.4081
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.1): 0.2985
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.1): 0.3492
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.2): 0.3739
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.3): 0.3866
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.5): 0.3967
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.7): 0.4023
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.8): 0.4049
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=11, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.2870
+SCNFOD(α=0.9): 0.4076
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.1): 0.3003
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.1): 0.3461
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.2): 0.3715
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.3): 0.3849
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.5): 0.3957
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.7): 0.4018
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.8): 0.4045
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=20, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.2917
+SCNFOD(α=0.9): 0.4075
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.1): 0.3039
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.1): 0.3464
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.2): 0.3712
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.3): 0.3846
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.5): 0.3956
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.7): 0.4017
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.8): 0.4045
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=29, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.2937
+SCNFOD(α=0.9): 0.4075
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.1): 0.3064
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.1): 0.3470
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.2): 0.3713
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.3): 0.3847
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.5): 0.3956
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.7): 0.4017
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.8): 0.4045
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=38, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.2964
+SCNFOD(α=0.9): 0.4075
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.1): 0.3079
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.1): 0.3477
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.2): 0.3718
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.3): 0.3850
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.5): 0.3958
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.7): 0.4018
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.8): 0.4045
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=47, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.3038
+SCNFOD(α=0.9): 0.4075
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.1): 0.3087
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.1): 0.3486
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.2): 0.3725
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.3): 0.3855
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.5): 0.3961
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.7): 0.4019
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.8): 0.4046
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=56, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.3070
+SCNFOD(α=0.9): 0.4075
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.05
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.1): 0.3092
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.15
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.1): 0.3495
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.25
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.2): 0.3732
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.35
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.3): 0.3859
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.5
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.5): 0.3963
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.65
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.7): 0.4021
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.75
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.8): 0.4047
+
+===== UNSW-NB15_4.csv =====
+Parameters: k=65, Alpha=0.9
+SSCOMPOD: 0.4090
+DFNO: 0.3111
+SCNFOD(α=0.9): 0.4076
