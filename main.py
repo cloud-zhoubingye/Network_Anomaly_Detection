@@ -189,7 +189,7 @@ def main(dataset_dir, data_threshold=7000):
 
                 # 将包含"BENIGN"的记录编码为0，其他编码为1
                 data[last_column] = data[last_column].apply(
-                    lambda x: 0 if "BENIGN" in x else 1
+                    lambda x: 0 if "normal." in x else 1
                 )
 
                 # 显示标签分布
@@ -316,9 +316,11 @@ def main(dataset_dir, data_threshold=7000):
 
 
 if __name__ == "__main__":
+    main(dataset_dir="dataset/kddcup.data")
+    exit(0)
+
     main(dataset_dir="dataset/UNSW-NB15")
     main(dataset_dir="dataset/CIC-IDS-2017/MachineLearningCVE")
-    # main(dataset_dir="dataset/kddcup.data")
     # main(
     #     dataset_dir="dataset/CIC-IoT-Dataset-2023"
     # )  # This dataset contains only only attack records, so it is not suitable.

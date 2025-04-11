@@ -13,8 +13,171 @@ High-dimensional data is a common challenge in network anomaly detection, making
 
 While each method has its strengths, combining them allows us to exploit their complementary advantages. SCNFOD fuses the anomaly scores from SSCOMPOD and DFNO using a weighted approach.
 
+# How to Install
+- Place datasets in the `dataset` folder.
+```
+conda create --name myenv python=3.12
+conda activate myenv
+pip install -r requirements.txt
+python main.py
+```
+- Run the following command to prepare environments.
+```
+conda create --name myenv python=3.12
+conda activate myenv
+pip install -r requirements.txt
+```
+- Run the following command to start the experiments.
+```
+conda activate myenv
+python main.py
+```
 
 # Experiment
+Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**, and **KDD Cup 1999**. The results are summarized in the following tables, or you can download [here](results/results.png).
+
+<table>
+  <thead>
+    <tr>
+      <th>Dataset</th>
+      <th>SubDataset Files</th>
+      <th colspan="1">SCNFOD</th>
+      <th colspan="2">DFNO</th>
+      <th colspan="2">SSC</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>AUC</th>
+      <th>AUC</th>
+      <th>Gain (%)</th>
+      <th>AUC</th>
+      <th>Gain (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">CIC-IDS-2017</td>
+      <td>Friday-WorkingHours-Afternoon-DDoS.pcap_ISCX.csv</td>
+      <td>0.5477</td>
+      <td>0.1570</td>
+      <td>248.8535</td>
+      <td>0.5483</td>
+      <td>-0.0011</td>
+    </tr>
+    <tr>
+      <td>Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv</td>
+      <td>0.7075</td>
+      <td>0.0881</td>
+      <td>703.0647</td>
+      <td>0.7078</td>
+      <td>-0.0004</td>
+    </tr>
+    <tr>
+      <td>Friday-WorkingHours-Morning.pcap_ISCX.csv</td>
+      <td>0.4008</td>
+      <td>0.3672</td>
+      <td>9.1503</td>
+      <td>0.3560</td>
+      <td>0.1258</td>
+    </tr>
+    <tr>
+      <td>Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv</td>
+      <td>0.1498</td>
+      <td>0.2206</td>
+      <td>-32.0943</td>
+      <td>0.0655</td>
+      <td>1.2870</td>
+    </tr>
+    <tr>
+      <td>Tuesday-WorkingHours.pcap_ISCX.csv</td>
+      <td>0.2287</td>
+      <td>0.2115</td>
+      <td>8.1324</td>
+      <td>0.2188</td>
+      <td>0.0452</td>
+    </tr>
+    <tr>
+      <td>Wednesday-workingHours.pcap_ISCX.csv</td>
+      <td>0.5316</td>
+      <td>0.4653</td>
+      <td>14.2489</td>
+      <td>0.5289</td>
+      <td>0.0051</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td></td>
+      <td></td>
+      <td><b>158.5593</b></td>
+      <td></td>
+      <td><b>0.2436</b></td>
+    </tr>
+    <tr>
+      <td rowspan="4">UNSW-NB15</td>
+      <td>UNSW-NB15_1.csv</td>
+      <td>0.7900</td>
+      <td>0.7561</td>
+      <td>4.4835</td>
+      <td>0.6589</td>
+      <td>0.1990</td>
+    </tr>
+    <tr>
+      <td>UNSW-NB15_2.csv</td>
+      <td>0.4515</td>
+      <td>0.4262</td>
+      <td>5.9362</td>
+      <td>0.4511</td>
+      <td>0.0009</td>
+    </tr>
+    <tr>
+      <td>UNSW-NB15_3.csv</td>
+      <td>0.4240</td>
+      <td>0.2887</td>
+      <td>46.8653</td>
+      <td>0.4246</td>
+      <td>-0.0014</td>
+    </tr>
+    <tr>
+      <td>UNSW-NB15_4.csv</td>
+      <td>0.4081</td>
+      <td>0.2820</td>
+      <td>44.7163</td>
+      <td>0.4090</td>
+      <td>-0.0022</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td></td>
+      <td></td>
+      <td><b>25.5003</b></td>
+      <td></td>
+      <td><b>0.0491</b></td>
+    </tr>
+    <tr>
+      <td>KDD Cup 1999</td>
+      <td>kddcup.data.corrected.csv</td>
+      <td>0.1364</td>
+      <td>0.1041</td>
+      <td>31.0279</td>
+      <td>0.1351</td>
+      <td>0.0096</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td></td>
+      <td></td>
+      <td><b>31.0279</b></td>
+      <td></td>
+      <td><b>0.0096</b></td>
+    </tr>
+  </tbody>
+</table>
+
+# Raw Data of Experiments
 ## CIC-IDS-2017
 - [University of New Brunswick. Intrusion Detection Evaluation Dataset (CIC‐IDS2017)[J]. 2017.](https://www.unb.ca/cic/datasets/ids-2017.html)
 
@@ -280,7 +443,22 @@ Results are as follows. Datasets displayed in red font gain better performance t
 ## Unused Datasets
 ### KDD Cup 1999
 - [Cost-based Modeling and Evaluation for Data Mining With Application to Fraud and Intrusion Detection: Results from the JAM Project by Salvatore J. Stolfo, Wei Fan, Wenke Lee, Andreas Prodromidis, and Philip K. Chan](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
-- Due to unknown reasons, all results shows `nan`.
+<table>
+    <tr>
+        <th>Sub-dataset</th>
+        <th>Params</th>
+        <th>AUC of our method</th>
+        <th>AUC of DFNO</th>
+        <th>AUC of SSC</th>
+    </tr>
+    <tr>
+        <th><span style="color:red; font-weight:bold;">kddcup.data.corrected.csv</span></th>
+        <th>k=2, Alpha=0.9</th>
+        <th>0.1364</th>
+        <th>0.1041</th>
+        <th>0.1351</th>
+    </tr>
+</table>
 
 ### CIC IoT Dataset 2023
 - [Neto E C P, Dadkhah S, Ferreira R, et al. CICIoT2023: A real-time dataset and benchmark for large-scale attacks in IoT environment[J]. Sensors, 2023, 23(13): 5941.](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
@@ -290,23 +468,3 @@ Results are as follows. Datasets displayed in red font gain better performance t
 ### Mapple
 - [Q. Li, B. Wang, X. Wen, Y. Chen, Cybersecurity situational awareness framework based on ResNet modeling](https://maple.nefu.edu.cn/)
 - The authors of Mapple did not label the dataset, so it can not be used.
-
-# How to Install
-- Place datasets in the `dataset` folder.
-```
-conda create --name myenv python=3.12
-conda activate myenv
-pip install -r requirements.txt
-python main.py
-```
-- Run the following command to prepare environments.
-```
-conda create --name myenv python=3.12
-conda activate myenv
-pip install -r requirements.txt
-```
-- Run the following command to start the experiments.
-```
-conda activate myenv
-python main.py
-```
