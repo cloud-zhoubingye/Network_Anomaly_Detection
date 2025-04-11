@@ -34,7 +34,7 @@ python main.py
 ```
 
 # Experiment
-Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**, and **KDD Cup 1999**. The results are summarized in the following tables, or you can download [here](results/results.png).
+Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**, and **KDD Cup 1999**. The results are summarized in the following tables, or you can download [here](results/results.png). Notably, we calculate the improvements by our method compared to baselines (DFNO, SSC) as "Gain", and calculate the average improvements per datasets as "Avg Gain".
 
 <table>
   <thead>
@@ -107,7 +107,7 @@ Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**
     </tr>
     <tr>
       <td></td>
-      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td><b>Avg Gain (By SCNFOD, %)</b></td>
       <td></td>
       <td></td>
       <td><b>158.5593</b></td>
@@ -149,7 +149,7 @@ Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**
     </tr>
     <tr>
       <td></td>
-      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td><b>Avg Gain (By SCNFOD, %)</b></td>
       <td></td>
       <td></td>
       <td><b>25.5003</b></td>
@@ -167,7 +167,7 @@ Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**
     </tr>
     <tr>
       <td></td>
-      <td><b>Avg Gain (Compared to SCNFOD, %)</b></td>
+      <td><b>Avg Gain (By SCNFOD, %)</b></td>
       <td></td>
       <td></td>
       <td><b>31.0279</b></td>
