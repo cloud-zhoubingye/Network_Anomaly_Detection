@@ -177,7 +177,13 @@ Our experiments are conducted on three datasets: **CIC-IDS-2017**, **UNSW-NB15**
   </tbody>
 </table>
 
-# Raw Data of Experiments
+# Details of Experiments
+Our experiments are conducted on five datasets: **CIC-IDS-2017**, **UNSW-NB15**, **KDD Cup 1999**, **CIC IoT Dataset 2023**, and **Mapple**. However, the last two datasets are not used in our experiments due to their limitations. 
+
+For the limitations of computational resources, every dataset file is randomly sampled to 7000 records for experiments. Usually, a dataset contains a few files, and we analyze each dataset based on their average performace on all sub-files. Addtionally, the hyper-parameters are different for different dataset files.
+
+The details of the experiments are as follows:
+
 ## CIC-IDS-2017
 - [University of New Brunswick. Intrusion Detection Evaluation Dataset (CIC‐IDS2017)[J]. 2017.](https://www.unb.ca/cic/datasets/ids-2017.html)
 
