@@ -317,8 +317,6 @@ def main(dataset_dir, data_threshold=7000):
 
 if __name__ == "__main__":
     main(dataset_dir="dataset/kddcup.data")
-    exit(0)
-
     main(dataset_dir="dataset/UNSW-NB15")
     main(dataset_dir="dataset/CIC-IDS-2017/MachineLearningCVE")
     # main(
